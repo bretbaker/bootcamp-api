@@ -1,1 +1,1 @@
-# bc-dir-mdb
+# bootcamp-directory
