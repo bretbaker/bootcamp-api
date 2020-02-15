@@ -1,16 +1,15 @@
 # Bootcamp API
 
-<a href='https://bc-api-0.herokuapp.com/' target='_blank'><img src='https://github.com/bretbaker/bootcamp-api/blob/master/readme-img/readme-img.svg' alt='Image of application'></a>
+<a href='https://bc-api-0.herokuapp.com/' target='_blank'><img src='https://github.com/bretbaker/bootcamp-api/blob/master/readme-img/readme-img.svg' alt='Image of application' width='400px'></a>
 
-Right click image above and open link in new tab or window.
+**Summary**:
 
-Summary:
+- This is an API for a bootcamp drectory application, built to showcase my ability to create a full fledged back end
+- Exhibits full CRUD functionality for bootcamps, courses, usres, and reviews
+- Requires user authentication
+- The deployed link displays the full documentation for the API
 
-- This is a simple back end for a bootcamp drectory application, built to showcase my ability to create a full fledged API
-- \*\*
-- The deployed link displays the API documentation
-
-Back end:
+**Back end**:
 
 - Node
 - Express
@@ -29,6 +28,6 @@ Back end:
 - Express-mongo-sanitize
 - Express-rate-limit
 
-Front end:
+**Front end**:
 
-- Docgen
+- Docgen (HTML)
