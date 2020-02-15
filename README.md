@@ -1,6 +1,6 @@
 # Bootcamp API
 
-<a href='https://bc-api-0.herokuapp.com/' target='_blank'><img src='https://github.com/bretbaker/bootcamp-api/blob/master/readme-img/readme-img.svg' alt='Image of application' width='400px'></a>
+<a href='https://bc-api-0.herokuapp.com/' target='_blank'><img src='https://github.com/bretbaker/bootcamp-api/blob/master/readme-img/readme-img.svg' alt='Image of application' width='600px'></a>
 
 **Summary**:
 
