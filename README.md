@@ -4,6 +4,7 @@
 <a href='https://bc-api-0.herokuapp.com/' target='_blank'><img src='https://github.com/bretbaker/bootcamp-api/blob/master/readme-img/readme-img.svg' alt='Image of application' width='500px'></a>
 <br/>
 <br/>
+<br/>
 
 **Summary**:
 
