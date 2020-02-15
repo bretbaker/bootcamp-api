@@ -5,7 +5,7 @@
 **Summary**:
 
 - This is an API for a bootcamp drectory application, built to showcase my ability to create a full-fledged back end
-- Exhibits full CRUD functionality for bootcamps, courses, usres, and reviews
+- Exhibits full CRUD functionality for bootcamps, courses, users, and reviews
 - Requires user authentication
 - The deployed link displays the full documentation for the API
 
